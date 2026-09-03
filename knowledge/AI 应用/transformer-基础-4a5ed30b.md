@@ -1,0 +1,25 @@
+---
+id: "4a5ed30b-7b16-4ea3-8650-93f5f1a00667"
+slug: "transformer-基础-4a5ed30b"
+title: "Transformer 基础"
+origin: "manual"
+name: "test"
+description: "test"
+entry_type: "concept"
+taxonomy_id: "taxonomy:foundations"
+version: "1.0"
+source: ""
+source_url: ""
+source_id: ""
+category: "AI 应用"
+knowledge_type: "concept"
+summary: "test"
+tags: []
+created_at: "2026-09-03T13:27:20.057728+00:00"
+updated_at: "2026-09-03T13:27:20.057728+00:00"
+status: "active"
+visibility: "private"
+publication_status: "draft"
+review_after: ""
+---
+test
