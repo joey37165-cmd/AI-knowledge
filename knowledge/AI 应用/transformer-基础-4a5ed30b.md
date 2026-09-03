@@ -16,10 +16,10 @@ knowledge_type: "concept"
 summary: "test"
 tags: []
 created_at: "2026-09-03T13:27:20.057728+00:00"
-updated_at: "2026-09-03T13:27:20.057728+00:00"
+updated_at: "2026-09-03T13:29:28.748579+00:00"
 status: "active"
-visibility: "private"
-publication_status: "draft"
+visibility: "public"
+publication_status: "published"
 review_after: ""
 ---
 test
